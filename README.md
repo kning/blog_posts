@@ -1,2 +1,2 @@
-# blog_posts
-Collection of notebooks for blog posts
+# Blog Posts
+Collection of analysis notebooks, data, and plots for blogging.
